@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo Rosado Rivial
 - 👀 I’m interested in Quantum Computing, Fractals, Cellular Automata, and most importantly learning!
-- 🌱 I’m currently learning about Quantum Theory and Diagrammatic Reasoning with Bob Coecke and Aleks Kissinger's book Pictruing Quantum Processes
-- 💞️ I’m looking to collaborate on any Open Source library for quantum computation and quantum information processing.
+- 🌱 I’m currently learning about Quantum Theory and Diagrammatic Reasoning with Bob Coecke and Aleks Kissinger's book Pictruing Quantum Processes, Quantum Computation and Quantum Information with Michael Nielsen and Isaac Chuang's book of the same name, and Quantum Machine Learning.
+- 💞️ I’m looking to collaborate on any Open Source library for quantum computation, education projects, or research projects.
 - 📫 How to reach me: through my email, rodrigorosadorivial@gmail.com
